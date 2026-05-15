@@ -1,4 +1,4 @@
-# LeadMax Payment System
+# LeadMax Payment Backend System
 
 This project demonstrates real-world API design, authentication, and payment handling logic suitable for fintech systems.
 
